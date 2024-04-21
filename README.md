@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, sejam bem-vindos ao meu GitHub! 👋
+
+Meu nome é Giani Augusto Braga. Sou professor no SENAI e na IDEAU, desenvolvedor e pesquisador. Possuo mestrado em Ciência da Computação pela UFRGS e atualmente estou cursando o doutorado na mesma instituição.
+
+## Linguagens e tecnologias
+![Flutter](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png)
 
 <!--
 **GianiBraga/GianiBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
