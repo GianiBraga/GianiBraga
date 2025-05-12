@@ -8,7 +8,7 @@
   
 </div>
 
-
+<h2 align="left">Linguagens e Tecnologias</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="react logo"  />
   <img width="12" />
