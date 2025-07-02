@@ -37,6 +37,7 @@
   <img width="12" />
 </div>
 
+<hr />
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianiBraga/GianiBraga/output/pacman-contribution-graph-dark.svg">
